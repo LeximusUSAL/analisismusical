@@ -4,35 +4,15 @@ Un portal web que centraliza el acceso a análisis computacionales de grandes co
 
 ## 🌐 Demo en Vivo
 
-[Ver portal principal en GitHub Pages](https://mariapalaciosnieto.github.io/AnalisisMusicales/index-principal.html)
+[Ver portal principal en GitHub Pages](https://leximususal.github.io/AnalisisMusicales/index-principal.html)
 
 ## 📊 Características del Portal
 
 ### Portal Centralizado
-- **Acceso unificado** a 3 análisis musicales especializados
+- **Acceso unificado** a análisis musicales especializados
 - **Dashboard interactivo** con estadísticas globales del corpus
 - **Navegación intuitiva** entre diferentes fuentes históricas
 - **Diseño responsivo** optimizado para todos los dispositivos
-
-### Fuentes Analizadas
-
-#### 🎼 La Iberia Musical (1842-1845)
-- **159 números** del primer periódico musical español
-- **547,230 palabras** del Romanticismo temprano
-- **21.6% densidad musical** - La más alta del corpus
-- **Ratio H:M 0.65:1** - Predominio femenino operístico
-
-#### 🎻 Revistas Musicales Especializadas (1909-1917)  
-- **78 números** de Revista Musical de Bilbao e Hispanoamericana
-- **1,759,290 palabras** del período modernista
-- **18.1% densidad musical** - Corpus especializado
-- **Ratio H:M 0.78:1** - Equilibrio de género único
-
-#### 📰 Periódico "El Sol" (1918-1935)
-- **1,427 artículos** de prensa generalista
-- **285,650 palabras** del período de entreguerras
-- **15.8% densidad musical** - Cobertura selectiva
-- **Ratio H:M 18:1** - Desigualdad característica
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -41,24 +21,6 @@ Un portal web que centraliza el acceso a análisis computacionales de grandes co
 - **CSS Grid/Flexbox** - Layouts adaptativos
 - **Python** - Procesamiento de corpus textuales
 - **eScriptorium** - Transcripción y mejora de OCR
-
-## 📈 Estadísticas Globales del Corpus
-
-### Volumen de Datos
-- **3 fuentes históricas** procesadas y analizadas
-- **1,664 números/artículos** totales
-- **2,591,170 palabras** analizadas en conjunto
-- **25 años de cobertura** temporal (1842-1845, 1909-1917, 1918-1935)
-
-### Distribución Temporal
-- **Siglo XIX temprano**: La Iberia Musical (21.1% del corpus)
-- **Siglo XX temprano**: Revistas especializadas (67.9% del corpus)  
-- **Período entreguerras**: El Sol (11.0% del corpus)
-
-### Análisis Comparativo
-- **Densidad musical**: 21.6% → 18.1% → 15.8% (especialización decreciente)
-- **Equilibrio de género**: 0.65:1 → 0.78:1 → 18:1 (deterioro progresivo)
-- **Volumen promedio**: 3,442 → 22,555 → 200 palabras por pieza
 
 ## 🎯 Valor Académico
 
@@ -162,13 +124,6 @@ Este portal presenta **resultados preliminares** que mejorarán progresivamente 
 - **Períodos adicionales** en fase de digitalización
 - **Metodología escalable** para corpus futuros
 
-## 🔗 Enlaces de Acceso
-
-### Análisis Específicos
-- **[La Iberia Musical (1842-1845)](la-iberia-musical.html)** - Romanticismo temprano
-- **[Revistas Musicales (1909-1917)](index.html)** - Modernismo musical
-- **[El Sol (1918-1935)](index%20(ELSOL).html)** - Vanguardias y entreguerras
-
 ### Recursos Adicionales
 - **Documentación técnica** en archivos README específicos
 - **Datos fuente** disponibles para investigación académica
@@ -201,4 +156,4 @@ Para consultas académicas, colaboraciones o acceso a datos específicos, contac
 
 ---
 
-**🎼 "Tres siglos de música española a través del análisis computacional"** • © 2024 Universidad de Salamanca
+**🎼 "Tres siglos de música española a través del análisis computacional"** • © 2025 Universidad de Salamanca
